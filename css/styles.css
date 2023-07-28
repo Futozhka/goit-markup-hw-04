@@ -45,6 +45,7 @@ img {
   padding-left: 15px;
   padding-right: 15px;
 
+
 }
 
 .container-two {
@@ -473,8 +474,10 @@ img {
 .footer-container {
   display: flex;
   align-items: baseline;
-  margin-right: 120px
+  margin-right: 120px;
 }
+
+
 
 
 .social-media {
