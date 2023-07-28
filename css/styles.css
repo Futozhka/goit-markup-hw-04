@@ -38,11 +38,13 @@ img {
 .header-container:first-child {
   display: flex;
 }
+
 .container {
   width: 1158px;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
+
 }
 
 .container-two {
@@ -471,11 +473,9 @@ img {
 .footer-container {
   display: flex;
   align-items: baseline;
+  margin-right: 120px
 }
 
-.footer-logo {
-  margin-right: 120px;
-}
 
 .social-media {
   font-weight: 500;
