@@ -559,8 +559,8 @@ img {
   border-radius: 50%;
 }
 
-.modal-button:hover,
-.modal-button:focus {
+.modal-button:hover svg,
+.modal-button:focus svg{
   background-color: var(--ocean-color);
   border: none;
   fill: var(--white-color);
