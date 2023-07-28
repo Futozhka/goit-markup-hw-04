@@ -462,6 +462,9 @@ img {
 .footer-container {
   display: flex;
   align-items: baseline;
+}
+
+.footer-logo {
   margin-right: 120px;
 }
 
